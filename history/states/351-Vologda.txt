@@ -1,0 +1,25 @@
+
+state={
+	id=351
+	name="STATE_351" # Vologda
+	manpower = 2352100
+	
+	state_category = town
+
+	history={
+		owner = RUS
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = RUS
+		victory_points = {
+			9131 3
+		}
+	}
+
+	provinces={
+		75 84 106 174 196 2996 3079 3087 3099 3157 3164 3175 6091 6112 6119 6190 9043 9110 9113 9131 9133 9168 9199 9202 9210 9222 11035 11086 11095 11107 11143 11177 11213 
+	}
+
+	local_supplies=0.0 
+}

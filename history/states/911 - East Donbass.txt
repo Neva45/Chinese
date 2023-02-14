@@ -1,0 +1,29 @@
+state={
+    id=911
+    name="STATE_911"
+
+    history={
+        owner = UNR
+        buildings = {
+             infrastucture = 5
+             arms_factory = 3
+             industrial_complex = 4
+             air_base = 5
+
+        }
+        victory_points = {
+			11476 1
+		}
+
+        add_core_of = UNR
+    }
+
+    provinces={
+		3519 3540 9488 9565 11459 11476
+    }
+
+    manpower= 12000000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

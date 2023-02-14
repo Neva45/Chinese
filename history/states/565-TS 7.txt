@@ -1,0 +1,28 @@
+
+state={
+	id=565
+	name="STATE_565" # Bodaybo
+	manpower = 195325
+	state_category = rural
+	resources={
+		steel=10 # was: 32
+		chromium=5 # was: 12
+	}
+
+	history={
+		owner = SIB
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SIB
+            victory_points = {
+			4868 1 
+		}
+	}
+
+	provinces={
+		1666 1795 4675 4762 4795 4821 4855 4868 7889 10714 12538 12565  
+	}
+
+	local_supplies=5.0 
+}

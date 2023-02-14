@@ -1,0 +1,25 @@
+
+state = {
+	id = 579
+	name = "STATE_579" # Salekhard
+	manpower = 45484
+	
+	state_category = pastoral
+
+	history = {
+		victory_points = {
+			1684 1
+		}
+		owner = RFE
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = RFE
+	}
+
+	provinces = {
+		1664 1684 4669 8461 9142
+	}
+
+	local_supplies = 0.0 
+}

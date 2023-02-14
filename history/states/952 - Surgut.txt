@@ -1,0 +1,33 @@
+state={
+    id=952
+    name="STATE_952"
+
+    history={
+        owner = RFE
+        buildings = {
+             infrastucture = 5
+             arms_factory = 3
+             industrial_complex = 4
+             air_base = 5
+
+        }
+        
+
+        add_core_of = RFE
+        victory_points = {
+			4817 1
+		}
+        victory_points = {
+			7738 1
+		}
+    }
+
+    provinces={
+		1784 4817 7738 12517 12574 12672
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

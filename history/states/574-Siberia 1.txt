@@ -1,0 +1,26 @@
+
+state = {
+	id = 574
+	name = "STATE_574" # Yakutsk
+	manpower = 407866
+	
+	state_category = pastoral
+
+	history={
+		owner = SIB
+		victory_points = {
+			10641 1
+		}
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+		}
+		add_core_of = SIB
+	}
+
+	provinces = {
+		1852 1878 4726 4798 7746 7765 7817 10589 10641 10701 12611 12623 
+	}
+
+	local_supplies = 0.0 
+}

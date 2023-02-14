@@ -1,0 +1,22 @@
+
+state={
+	id=576
+	name="STATE_576" # Yeniseisk
+	manpower = 117195
+	
+	state_category = wasteland
+
+	history={
+		owner = SIB
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SIB
+	}
+
+	provinces={
+		  1741 4743 7805 10631
+	}
+
+	local_supplies=5.0 
+}

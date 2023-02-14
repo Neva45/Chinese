@@ -1,0 +1,30 @@
+state={
+    id=946
+    name="STATE_946"
+
+    history={
+        owner = RUS
+        buildings = {
+             infrastucture = 5
+             arms_factory = 3
+             industrial_complex = 4
+             air_base = 5
+
+        }
+        
+
+        add_core_of = RUS
+        victory_points = {
+			257 1 
+		}
+    }
+
+    provinces={
+		208 257 353 380 483 3317 3477 9326 11240 11269 11308 11335 11364 11393
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

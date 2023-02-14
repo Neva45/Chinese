@@ -1,0 +1,35 @@
+state={
+    id=912
+    name="STATE_912"
+
+    history={
+        owner = NCI
+        buildings = {
+             infrastucture = 5
+             arms_factory = 3
+             industrial_complex = 4
+             air_base = 5
+
+        }
+
+        add_core_of = NCI
+        victory_points = {
+			6718 1
+		}
+        victory_points = {
+			9649 1
+		}
+        victory_points = {
+			11633 1
+		}
+    }
+
+    provinces={
+		6702 6718 6733 9649 11633 11661 11664 11690
+    }
+
+    manpower= 120000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

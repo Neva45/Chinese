@@ -1,0 +1,34 @@
+state={
+    id=919
+    name="STATE_919"
+
+    history={
+        owner = RUS
+        buildings = {
+             infrastucture = 5
+             arms_factory = 3
+             industrial_complex = 4
+             air_base = 5
+
+        }
+        victory_points = {
+			4824 1
+		}
+        victory_points = {
+			10542 1
+		}
+        victory_points = {
+			1327 1
+		}
+        add_core_of = RUS
+    }
+
+    provinces={
+		1292 1327 1387 4242 4824 12106 10170 10189 10542 12102 12696
+    }
+
+    manpower= 120000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

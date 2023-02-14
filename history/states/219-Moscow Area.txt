@@ -1,0 +1,59 @@
+ 
+state={
+	id=219
+	name="STATE_219"
+	manpower = 8335992
+	
+	state_category = megalopolis
+	resources={
+		steel=16 # was: 28
+	}
+
+	history={
+		owner = RUS
+
+		buildings = {
+			infrastructure = 4 #was: 8
+			arms_factory = 7
+			industrial_complex = 3
+			air_base = 10
+		}
+		add_core_of = RUS
+            victory_points = {
+			9345 1 
+		}
+            victory_points = {
+			6356 1 
+		}
+            victory_points = {
+			9356 1
+		}
+            victory_points = {
+			9278 1
+		}
+            victory_points = {
+			11362 1
+		}
+            victory_points = {
+			6316 1
+		}
+            victory_points = {
+			3290 1
+		}
+            victory_points = {
+			11330 1
+		}
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 4
+				arms_factory = 10
+			}
+		}
+	}
+
+	provinces={
+		350 3290 6316 6356 9235 9278 9345 9356 11217 11330 11362
+	}
+
+	local_supplies=6.0 
+}

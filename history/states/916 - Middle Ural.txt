@@ -1,0 +1,26 @@
+state={
+    id=916
+    name="STATE_916"
+
+    history={
+        owner = RUS
+        buildings = {
+             infrastucture = 5
+             arms_factory = 3
+             industrial_complex = 4
+             air_base = 5
+
+        }
+
+        add_core_of = RUS
+    }
+
+    provinces={
+		7824 10216 12659
+    }
+
+    manpower= 120000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

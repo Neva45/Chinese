@@ -1,0 +1,25 @@
+
+state={
+	id=578
+	name="STATE_578" # Tomsk
+	manpower = 609304
+	
+	state_category = rural
+
+	history={
+		owner = RFE
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = RFE
+		victory_points = {
+			7789 1
+		}
+	}
+
+	provinces={
+		1674 4767 7655 7789 7861 12174 12536 
+	}
+
+	local_supplies=0.0 
+}

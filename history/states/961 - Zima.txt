@@ -1,0 +1,30 @@
+state={
+    id=961
+    name="STATE_961"
+
+    history={
+        owner = SIB
+        buildings = {
+             infrastucture = 5
+             arms_factory = 3
+             industrial_complex = 4
+             air_base = 5
+
+        }
+        
+
+        add_core_of = SIB
+        victory_points = {
+			1803 1 
+		}       
+    }
+
+    provinces={
+		1803 4750 7841 7876 10570 10664 12523
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

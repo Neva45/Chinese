@@ -1,0 +1,155 @@
+ideas = {
+
+	country = {
+
+		RUS_FRSV = {
+			
+			allowed = {
+				original_tag = RUS
+			}
+		
+			allowed_civil_war = {
+
+			}
+
+			picture = RUS_FRSV
+
+			modifier = {
+				stability_factor = -0.2
+				political_power_factor = -0.3
+				army_org_factor = -0.05
+			}
+
+		}
+
+		RUS_DFBNB = {
+			
+			allowed = {
+				original_tag = RUS
+			}
+		
+			allowed_civil_war = {
+
+			}
+
+			picture = RUS_DFBNB
+
+			modifier = {
+				stability_factor = -0.1
+				war_support_factor = -0.3
+				#<ideology>_drift = -0.05
+				autonomy_gain = 0.01
+			}
+
+		}
+
+		RUS_EUOC = {
+			
+			allowed = {
+				original_tag = RUS
+			}
+		
+			allowed_civil_war = {
+
+			}
+
+			picture = RUS_EUOC
+
+			modifier = {
+				stability_factor = 0.05
+				extra_trade_to_overlord_factor = 0.4 #Заглушка
+				trade_opinion_factor = 0.3
+				cic_to_overlord_factor = 0.15
+				mic_to_overlord_factor = 0.25
+				production_factory_efficiency_gain_factor = -0.15
+				production_factory_output_factor = -0.15
+			}
+
+		}
+
+		RUS_RSK = {
+			
+			allowed = {
+				original_tag = RUS
+			}
+		
+			allowed_civil_war = {
+
+			}
+
+			picture = RUS_RSK
+
+			modifier = {
+				stability_factor = 0.1
+				#<ideology>_drift = -0.05
+			}
+
+		}
+
+		RUS_RUBAC = {
+			
+			allowed = {
+				original_tag = RUS
+			}
+		
+			allowed_civil_war = {
+
+			}
+
+			picture = RUS_RUBAC
+
+			modifier = {
+				stability_factor = -0.1
+				consumer_goods_factor = 0.05
+				political_power_cost = 0.05
+			}
+
+		}
+
+		RUS_RUSMD = {
+			
+			allowed = {
+				original_tag = RUS
+			}
+		
+			allowed_civil_war = {
+
+			}
+
+			picture = RUS_RUSMD
+
+			modifier = {
+				political_power_factor = 0.1
+				drift_defence_factor = 0.5
+				army_org_factor = -0.05
+				army_attack_factor = -0.1
+				army_defence_factor = -0.1
+				army_speed_factor = -0.1
+				#Нельзя тренировать новые дивизий или редактировать шаблоны.(Как узнаю - сделаю)
+			}
+
+		}
+
+		RUS_RUHTND = {
+			
+			allowed = {
+				original_tag = RUS
+			}
+		
+			allowed_civil_war = {
+
+			}
+
+			picture = RUS_RUHTND
+
+			modifier = {
+				research_speed_factor = 0.075
+				production_factory_output_factor = 0.125
+				monthly_population = 0.1
+				political_power_gain = 0.1
+			}
+			
+		}
+
+	}
+}

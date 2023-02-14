@@ -1,0 +1,25 @@
+
+state = {
+	id = 824
+	name = "STATE_824" # Yamalia
+	manpower = 21974
+	
+	state_category = pastoral
+
+	history = {
+		owner = RFE
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = RFE
+            victory_points = {
+			7809 1
+		}
+	}
+
+	provinces = {
+		4761 7809 12545 
+	}
+
+	local_supplies = 0.0 
+}

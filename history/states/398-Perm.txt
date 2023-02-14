@@ -1,0 +1,37 @@
+
+state = {
+	id = 398
+	name = "STATE_398"
+	manpower = 2135879
+	state_category = rural
+	resources = {
+		aluminium = 6 # was: 10
+	}
+
+	history = {
+		owner = RUS
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+
+		}
+		victory_points = {
+			7375 1 
+		}
+            victory_points = {
+			10314 1 
+		}
+		add_core_of = RUS
+		1939.1.1 = {
+			buildings = {
+				arms_factory = 2
+			}
+		}
+	}
+
+	provinces = {
+		206 361 390 1365 1380 4372 7375 10286 10314 11228 12216 12626 
+	}
+
+	local_supplies = 0.0 
+}
